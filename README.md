@@ -34,6 +34,7 @@
 - TMDB image CDN URL 
 - Made browse page amazing with tailwid css
 - usePopularMovies, useTopRatedMovies, useUpComingMovies custom hooks
+- (BONUS) Multi language Feature in our app.
 
 
 
